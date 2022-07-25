@@ -2,4 +2,47 @@
   background-color: rgb(32, 3, 65);
   height: 120px;
   border-radius: 15px;
+  color: white;
+  border: 1px solid green;
+}
+
+.sexo {
+  font-size: 2.5em;
+  margin-top: 0.7em;
+}
+
+.numero {
+  font-size: 2em;
+  font-weight: 800;
+  margin-top: -30px;
+}
+
+.cm {
+  font-size: 0.5em;
+  font-weight: 400;
+}
+
+.form-range {
+  padding: 0px 0.7em;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  background: rgb(220, 86, 86);
+}
+
+.peso-edad {
+  padding-top: 1.5em;
+}
+
+.resta-suma {
+  cursor: pointer;
+  background-color: rgb(91, 10, 182);
+  padding: 0.3em;
+  border-radius: 15px;
+  margin-left: 3px;
+}
+
+.sexoDesact {
+  background-color: rgb(17, 1, 23);
+  border: none;
 }

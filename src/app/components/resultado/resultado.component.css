@@ -1,0 +1,25 @@
+.item-bg {
+  background-color: rgb(32, 3, 65);
+  height: 400px;
+  border-radius: 15px;
+  color: white;
+  border: 1px solid green;
+}
+
+.resultado {
+  color: green;
+  font-style: 2em;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.numero {
+  color: white;
+  font-size: 4em;
+  font-weight: 700;
+}
+
+.interpretação {
+  margin: 0.5em;
+  font-size: medium;
+}
